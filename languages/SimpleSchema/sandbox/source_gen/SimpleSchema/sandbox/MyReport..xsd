@@ -1,0 +1,18 @@
+<schema>
+  <element name="Report">
+  <complexType name="ReportType">
+    <element name="Header">
+    <element name="Input">
+    <element name="Results">
+  </complexType>
+
+  <complexType name="HeaderType">
+  </complexType>
+
+  <complexType name="InputType">
+  </complexType>
+
+  <complexType name="ResultsType">
+  </complexType>
+
+</schema>
