@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="28" endPosition="0" unitName="SimpleSchema.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="ComplexType_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="SimpleSchema.behavior.ComplexType_BehaviorDescriptor" />
+  <unitInfo fileName="Element_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="SimpleSchema.behavior.Element_BehaviorDescriptor" />
+  <unitInfo fileName="Schema_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="SimpleSchema.behavior.Schema_BehaviorDescriptor" />
+  <unitInfo fileName="Type_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="9" endPosition="0" unitName="SimpleSchema.behavior.Type_BehaviorDescriptor" />
+</debugInfo>
+

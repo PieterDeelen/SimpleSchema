@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="aihd" modelUID="r:6b361b0c-2741-46c0-8b66-2d76e33af5ab(SimpleSchema.structure)" version="-1" />
+    </dependencies>
+    <rename id="aihd.8519667119007998416" type="REFERENCE" from="type" to="target" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="aihd" modelUID="r:6b361b0c-2741-46c0-8b66-2d76e33af5ab(SimpleSchema.structure)" version="0" />
+    </dependencies>
+    <rename id="aihd.8519667119007998416" type="REFERENCE" from="target" to="type" />
+  </StructureModification>
+</history>
+

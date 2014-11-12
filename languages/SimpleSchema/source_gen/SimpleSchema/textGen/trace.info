@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:f1f52668-0a05-46ca-bc5d-96f5bb931a1f(SimpleSchema.textGen)/8519667119007899590">
+    <nodeInfo nodeId="8519667119007912512" fileName="Element_TextGen.java" startLine="10" startPosition="42" endLine="11" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8519667119007912512" fileName="Element_TextGen.java" startLine="10" startPosition="42" endLine="11" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8519667119007912718" fileName="Element_TextGen.java" startLine="11" startPosition="36" endLine="12" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8519667119007912718" fileName="Element_TextGen.java" startLine="11" startPosition="36" endLine="12" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8519667119007914631" fileName="Element_TextGen.java" startLine="12" startPosition="61" endLine="13" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8519667119007914631" fileName="Element_TextGen.java" startLine="12" startPosition="61" endLine="13" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8519667119007899590" fileName="Element_TextGen.java" startLine="10" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="doGenerateText#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <scopeInfo nodeId="8519667119007912512" fileName="Element_TextGen.java" startLine="10" startPosition="42" endLine="11" endPosition="36" />
+    <scopeInfo nodeId="8519667119007912718" fileName="Element_TextGen.java" startLine="11" startPosition="36" endLine="12" endPosition="61" />
+    <scopeInfo nodeId="8519667119007914631" fileName="Element_TextGen.java" startLine="12" startPosition="61" endLine="13" endPosition="23" />
+    <scopeInfo nodeId="8519667119007899590" fileName="Element_TextGen.java" startLine="10" startPosition="42" endLine="13" endPosition="23" />
+    <scopeInfo nodeId="8519667119007899590" fileName="Element_TextGen.java" startLine="10" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="8519667119007899590" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="8519667119007899590" fileName="Element_TextGen.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="SimpleSchema.textGen.Element_TextGen" />
+  </root>
+</debugInfo>
+
